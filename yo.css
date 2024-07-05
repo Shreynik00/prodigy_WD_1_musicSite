@@ -1,0 +1,92 @@
+
+body {
+background-color:
+chartreuse ;
+font-family: Arial, sans-serif;
+}
+header {
+background-color: aquamarine; color: #fff;
+text-align: center;
+padding: 20px;
+}
+header h1 {
+background-color:
+aqua;
+border-radius: 9px;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+font-size: 48px;
+}
+header h1 {
+font-size: 48px;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+h2{
+    font-size: 48px;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+color:#fff;
+}
+nav ul {
+list-style: none;
+margin-top: 20px;
+font-size: 24px;
+}
+nav li {
+display: inline;
+margin-right: 20px;
+}
+nav a {
+text-decoration: none; color: #fff;
+font-weight: bold;
+}
+.container {
+background-color: #fff;
+margin: 20px;
+padding: 20px;
+border: 1px solid #ddd;
+box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+border-radius: 5px;
+}
+.section {
+
+background-color: cadetblue;
+padding: 20px;
+margin-bottom: 20px;
+border: 1px solid #ddd;
+border-radius: 5px;
+}
+h3{
+    font-size: 56px;
+    color:blanchedalmond;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.section h2 {
+font-size: 24px;
+color:#fff;
+margin-bottom: 10px;
+}
+footer
+{
+text-align: center; background-color: #333;
+color: #fff;
+padding: 10px;
+}
+footer p {
+font-size: 14px;
+}
+.song-list {
+list-style-type: none;
+}
+.song-list li {
+
+margin: 10px 0;
+}
+.image {
+
+max-width: 100%; height: 210px;
+width: 290px;
+border-radius: 12px;
+}
+audio {
+width: 100%;
+margin-top: 10px;
+}
